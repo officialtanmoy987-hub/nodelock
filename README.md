@@ -1,67 +1,83 @@
-# Criminal Network Analysis and Visualization
+# CRIMEGRAPH AI
 
-[![python](https://img.shields.io/badge/python-3.7.12-blue)](https://www.python.org/)
-[![NetworkX](https://img.shields.io/badge/networkx-2.4-orange)](https://networkx.org/)
-[![ROXANNE-license](https://img.shields.io/badge/License-ROXANNE-blue.svg)](https://www.roxanne-euproject.org/)
+## AI-Powered Criminal Network Intelligence & Investigation Platform
 
-[![Criminal Network Analysis](./visualizer/documentation/images/network_analysis.png)](https://github.com/erichoang/criminal-network-visualization)
+CRIMEGRAPH AI is a local-first hackathon demonstration that turns fragmented records into an explainable relationship graph. It is an investigative decision-support prototype: it surfaces **analytical leads**, never conclusions about real people.
 
-## Overview
-A visualization tool for criminal network analysis.
+> **Ethical demo notice:** The live CRIMEGRAPH network is deterministic and fictional. Every relationship is marked `SIMULATED_DEMO`; centrality, anomaly and path outputs are marked `MODEL_INFERRED_DEMO` where appropriate. These outputs require investigator verification and must never be treated as proof of wrongdoing.
 
-- analyzer: criminal (social) network analysis functionalities, including community detection, social influence analysis, node embedding generation, and (transductive) link prediction.
-- datasets: criminal datasets for developing/testing the system. [[List of Criminal Datasets]](datasets/preprocessed/README.md).
-- conductor: providing API services
-- framework: the system's infrastructure/framework and communication among its components
-- storage: data handling graph storage 
-- tester: example scripts for testing the system's components
-- visualizer: web interfaces and visualization. [[Visualizer User Documentation]](https://github.com/erichoang/criminal-network-visualization/blob/main/visualizer/documentation/visualizer_doc.md).
+## Features
 
-This repository is a part of the paper "Inductive and Transductive Link Prediction for Criminal Network Analysis," published in the Journal of Computational Science in 2023. The paper discusses how identifying potential offenders who might co-offend can help law enforcement focus their investigations and improve predictive policing. Traditional methods rely heavily on manual work by police officers, which can be inefficient. To address this, the paper introduces two machine learning frameworks based on graph theory, specifically for burglary cases. These are transductive link prediction (this repository), which predicts connections between existing nodes (offenders or crime cases), and inductive link prediction (see the implementation [here](https://github.com/erichoang/criminal-link-prediction)), which finds links between new crime cases and existing nodes.
+- Command-center dashboard with entity, relationship, event, location and alert signals
+- Interactive, filterable multi-modal graph for people, organisations, locations, vehicles, phones, events, transactions and communications
+- Entity profiles, connections, timelines, evidence links and generated intelligence reports
+- Search with normalised/fuzzy matching candidates and alias support
+- NetworkX degree, betweenness, closeness, PageRank, community detection, components and shortest-path analysis
+- Explainable alerts plus a lightweight rule-based NLP endpoint
+- CSV/JSON ingestion preview that does not mutate the deterministic demo
 
-## Citation
- Ahmadi, Z., Nguyen, H. H., Zhang, Z., Bozhkov, D., Kudenko, D., Jofre, M., Calderoni, F., Cohen, N., & Solewicz, Y. (2023). Inductive and transductive link prediction for criminal network analysis. Journal of Computational Science. [Preprint](https://hoanghnguyen.com/assets/pdf/ahmadi2023inductive.pdf)
-```
-@article{ahmadi2023inductive,
-  title = {Inductive and Transductive Link Prediction for Criminal Network Analysis},
-  author = {Ahmadi, Zahra and Nguyen, Hoang H. and Zhang, Zijian and Bozhkov, Dmytro and Kudenko, Daniel and Jofre, Maria and Calderoni, Francesco and Cohen, Noa and Solewicz, Yosef},
-  journal = {Journal of Computational Science},
-  publisher = {Elsevier},
-  volume = {72},
-  pages = {102063},
-  year = {2023},
-  issn = {1877-7503},
-  doi = {https://doi.org/10.1016/j.jocs.2023.102063},
-  url = {https://www.sciencedirect.com/science/article/pii/S1877750323001230},
-}
+## Architecture
+
+```text
+React + Vite dashboard  ── HTTP/JSON ──>  FastAPI service
+       interactive SVG graph                  │
+                                                ├─ NetworkX analytics
+                                                ├─ deterministic demo generator
+                                                └─ JSON artefacts in data/demo/
 ```
 
-# Analysis and Visualization
-## Installation
-### Requirements
-- Linux
-- Anaconda
+## Quick start
 
-### Install Environment
+Open two terminals from this repository.
 
-Install python required packages.
-```bash
-pip install -r visualizer/requirements.txt
+```powershell
+# Terminal 1 — API (Python 3.10+)
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r backend\requirements.txt
+python backend\run.py
 ```
 
-## Quickstart
+```powershell
+# Terminal 2 — dashboard (Node 20+)
+cd frontend
+npm.cmd install
+npm.cmd run dev
+```
 
-### Run the server
+Visit `http://localhost:5173`. The API documentation is at `http://127.0.0.1:8000/docs`. See [RUNNING.md](RUNNING.md) for exact verification commands.
 
-Start the server by executing the `index.py` with Python 3.7:  
+## Suggested demo workflow
 
-````bash
-$ python visualizer/index.py
-````
+1. Open **Command Center** and inspect priority alerts and influence ranking.
+2. Search **Rahul Sharma** (fictional demo subject) and open the profile.
+3. Select **Generate report** to download an explainable JSON investigation brief.
+4. Open **Network Graph**, choose *Find connection*, or limit the view to suspicious links.
+5. Inspect an alert to see its score, supporting entity IDs, relationship types and data status.
+6. Use **Data Import** to preview a CSV or JSON source locally.
 
-### Open the visualizer
+## Data sources and provenance
 
-The server now listens locally on port 8050. Click the link provided by the command line interface or visit `0.0.0.0:8050` directly.
+The checkout contains a prior criminal-network-visualisation repository, not the `lightbluetitan/crimedatasets` R package named in the brief. It has no R package `DESCRIPTION`, `NAMESPACE`, `.R` or `.rda` files. Its preserved source data is kept untouched under `datasets/preprocessed/`.
 
-### Visualizer User Documentation
-For a full tutorial on how to use our visualizer, please check the [Visualizer User Documentation](https://github.com/erichoang/criminal-network-visualization/blob/main/visualizer/documentation/visualizer_doc.md).
+Useful preserved resources include anonymised burglary network data, anonymised telephone traffic networks, CSI character conversation networks, Montreal group network data and the Madoff financial-flow network. Their formats are NetworkX JSON/NDJSON. The current UI does not render them as person-level evidence: that would risk wrongly recontextualising heterogeneous records.
+
+The frontend uses only the fictional demo layer generated into `data/demo/` at API startup. Details, mapping and limitations are in [DATA_SOURCES.md](DATA_SOURCES.md) and [docs/DATA_MAPPING.md](docs/DATA_MAPPING.md).
+
+## Project layout
+
+```text
+backend/               FastAPI API, analytics and demo-data generator
+frontend/              React/Vite intelligence dashboard
+data/demo/             Generated normalised JSON demo artefacts
+datasets/preprocessed/ Preserved legacy NetworkX/NDJSON source datasets
+docs/                  Data mapping and implementation documentation
+```
+
+## Limitations
+
+- This is a local, deterministic demo. It has no authentication, case management or production audit log.
+- The ingestion screen previews source structure; it intentionally does not persist uploads to the seeded graph.
+- Rule-based NLP extracts candidates and requires human review; it is not a forensic NLP system.
+- The graph is a custom SVG implementation for zero-config startup; it is suitable for the demo-scale dataset, not very large graphs.
+- No model or alert makes an allegation or establishes criminality.

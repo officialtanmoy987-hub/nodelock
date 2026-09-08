@@ -1,0 +1,98 @@
+[
+  {
+    "id": "L001",
+    "name": "North District Depot",
+    "entity_type": "LOCATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "area": "North District",
+    "latitude": 26.177,
+    "longitude": 91.739
+  },
+  {
+    "id": "L002",
+    "name": "Central Ward Office",
+    "entity_type": "LOCATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "area": "Central Ward",
+    "latitude": 26.182,
+    "longitude": 91.748
+  },
+  {
+    "id": "L003",
+    "name": "East Market Warehouse",
+    "entity_type": "LOCATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "area": "East Market",
+    "latitude": 26.19,
+    "longitude": 91.755
+  },
+  {
+    "id": "L004",
+    "name": "Old City Arcade",
+    "entity_type": "LOCATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "area": "Old City",
+    "latitude": 26.168,
+    "longitude": 91.732
+  },
+  {
+    "id": "L005",
+    "name": "Riverside Garage",
+    "entity_type": "LOCATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "area": "Riverside",
+    "latitude": 26.161,
+    "longitude": 91.765
+  },
+  {
+    "id": "L006",
+    "name": "Harbor Zone Gate",
+    "entity_type": "LOCATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "area": "Harbor Zone",
+    "latitude": 26.201,
+    "longitude": 91.776
+  },
+  {
+    "id": "L007",
+    "name": "Intercity Rail Station",
+    "entity_type": "LOCATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "area": "Transit",
+    "latitude": 26.174,
+    "longitude": 91.745
+  },
+  {
+    "id": "L008",
+    "name": "Industrial Belt Yard",
+    "entity_type": "LOCATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "area": "Industrial Belt",
+    "latitude": 26.208,
+    "longitude": 91.724
+  }
+]

@@ -1,0 +1,1 @@
+"""CRIMEGRAPH AI application package."""

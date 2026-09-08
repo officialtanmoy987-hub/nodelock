@@ -1,0 +1,74 @@
+[
+  {
+    "id": "O001",
+    "name": "Orion Freight Cooperative",
+    "entity_type": "ORGANIZATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Logistics",
+    "location_id": "L003",
+    "community": "C3"
+  },
+  {
+    "id": "O002",
+    "name": "Northstar Trading Circle",
+    "entity_type": "ORGANIZATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Trading",
+    "location_id": "L001",
+    "community": "C1"
+  },
+  {
+    "id": "O003",
+    "name": "Civic Market Association",
+    "entity_type": "ORGANIZATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Commercial",
+    "location_id": "L004",
+    "community": "C2"
+  },
+  {
+    "id": "O004",
+    "name": "Harbor Link Services",
+    "entity_type": "ORGANIZATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Transport",
+    "location_id": "L006",
+    "community": "C3"
+  },
+  {
+    "id": "O005",
+    "name": "Silver Ledger Consultants",
+    "entity_type": "ORGANIZATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Financial services",
+    "location_id": "L002",
+    "community": "C2"
+  },
+  {
+    "id": "O006",
+    "name": "Metro Vehicle Exchange",
+    "entity_type": "ORGANIZATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Vehicle services",
+    "location_id": "L005",
+    "community": "C1"
+  }
+]

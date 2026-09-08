@@ -1,0 +1,86 @@
+[
+  {
+    "id": "E001",
+    "name": "Depot meeting observation",
+    "entity_type": "EVENT",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "date": "2026-05-10",
+    "location_id": "L001",
+    "event_type": "Observed demo event"
+  },
+  {
+    "id": "E002",
+    "name": "Warehouse access log",
+    "entity_type": "EVENT",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "date": "2026-05-11",
+    "location_id": "L003",
+    "event_type": "Observed demo event"
+  },
+  {
+    "id": "E003",
+    "name": "Rail station co-location",
+    "entity_type": "EVENT",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "date": "2026-06-12",
+    "location_id": "L007",
+    "event_type": "Observed demo event"
+  },
+  {
+    "id": "E004",
+    "name": "Harbor gate movement",
+    "entity_type": "EVENT",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "date": "2026-06-18",
+    "location_id": "L006",
+    "event_type": "Observed demo event"
+  },
+  {
+    "id": "E005",
+    "name": "Central office visit",
+    "entity_type": "EVENT",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "date": "2026-06-22",
+    "location_id": "L002",
+    "event_type": "Observed demo event"
+  },
+  {
+    "id": "E006",
+    "name": "Market contact pattern",
+    "entity_type": "EVENT",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "date": "2026-07-01",
+    "location_id": "L004",
+    "event_type": "Observed demo event"
+  },
+  {
+    "id": "E007",
+    "name": "Industrial yard observation",
+    "entity_type": "EVENT",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "date": "2026-07-15",
+    "location_id": "L008",
+    "event_type": "Observed demo event"
+  }
+]

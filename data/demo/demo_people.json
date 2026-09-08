@@ -1,0 +1,283 @@
+[
+  {
+    "id": "P001",
+    "name": "Rahul Sharma",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "R. Sharma",
+      "Rahul K Sharma"
+    ],
+    "age": 34,
+    "gender": "Unspecified",
+    "location": "North District",
+    "occupation": "Logistics contractor",
+    "criminal_history": [],
+    "risk_score": 78,
+    "community": "C1",
+    "match_confidence": 0.88
+  },
+  {
+    "id": "P002",
+    "name": "Arjun Mehta",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "A. Mehta"
+    ],
+    "age": 31,
+    "gender": "Unspecified",
+    "location": "Old City",
+    "occupation": "Vehicle broker",
+    "criminal_history": [],
+    "risk_score": 72,
+    "community": "C1",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P003",
+    "name": "Manoj Singh",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "M. Singh"
+    ],
+    "age": 38,
+    "gender": "Unspecified",
+    "location": "Riverside",
+    "occupation": "Warehouse assistant",
+    "criminal_history": [],
+    "risk_score": 67,
+    "community": "C1",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P004",
+    "name": "Aisha Khan",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "A. Khan"
+    ],
+    "age": 29,
+    "gender": "Unspecified",
+    "location": "Central Ward",
+    "occupation": "Bookkeeper",
+    "criminal_history": [],
+    "risk_score": 64,
+    "community": "C2",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P005",
+    "name": "Dev Patel",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "D. Patel"
+    ],
+    "age": 42,
+    "gender": "Unspecified",
+    "location": "East Market",
+    "occupation": "Freight dispatcher",
+    "criminal_history": [],
+    "risk_score": 74,
+    "community": "C3",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P006",
+    "name": "Isha Verma",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "I. Verma"
+    ],
+    "age": 33,
+    "gender": "Unspecified",
+    "location": "North District",
+    "occupation": "Retail manager",
+    "criminal_history": [],
+    "risk_score": 49,
+    "community": "C2",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P007",
+    "name": "Kabir Nair",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "K. Nair"
+    ],
+    "age": 36,
+    "gender": "Unspecified",
+    "location": "Harbor Zone",
+    "occupation": "Driver",
+    "criminal_history": [],
+    "risk_score": 61,
+    "community": "C3",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P008",
+    "name": "Priya Das",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "P. Das"
+    ],
+    "age": 27,
+    "gender": "Unspecified",
+    "location": "Old City",
+    "occupation": "Accounts assistant",
+    "criminal_history": [],
+    "risk_score": 45,
+    "community": "C2",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P009",
+    "name": "Rohan Kapoor",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "R. Kapoor"
+    ],
+    "age": 40,
+    "gender": "Unspecified",
+    "location": "Industrial Belt",
+    "occupation": "Mechanic",
+    "criminal_history": [],
+    "risk_score": 58,
+    "community": "C3",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P010",
+    "name": "Sana Ali",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "S. Ali"
+    ],
+    "age": 35,
+    "gender": "Unspecified",
+    "location": "Central Ward",
+    "occupation": "Consultant",
+    "criminal_history": [],
+    "risk_score": 53,
+    "community": "C2",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P011",
+    "name": "Vikram Rao",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "V. Rao"
+    ],
+    "age": 46,
+    "gender": "Unspecified",
+    "location": "Riverside",
+    "occupation": "Property manager",
+    "criminal_history": [],
+    "risk_score": 70,
+    "community": "C1",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P012",
+    "name": "Neha Bose",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "N. Bose"
+    ],
+    "age": 30,
+    "gender": "Unspecified",
+    "location": "East Market",
+    "occupation": "Courier coordinator",
+    "criminal_history": [],
+    "risk_score": 55,
+    "community": "C3",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P013",
+    "name": "Imran Qureshi",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "I. Qureshi"
+    ],
+    "age": 39,
+    "gender": "Unspecified",
+    "location": "Harbor Zone",
+    "occupation": "Importer",
+    "criminal_history": [],
+    "risk_score": 69,
+    "community": "C3",
+    "match_confidence": 1.0
+  },
+  {
+    "id": "P014",
+    "name": "Tara Sen",
+    "entity_type": "PERSON",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "aliases": [
+      "T. Sen"
+    ],
+    "age": 28,
+    "gender": "Unspecified",
+    "location": "North District",
+    "occupation": "Communications analyst",
+    "criminal_history": [],
+    "risk_score": 47,
+    "community": "C1",
+    "match_confidence": 1.0
+  }
+]

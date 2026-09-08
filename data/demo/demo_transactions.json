@@ -1,0 +1,80 @@
+[
+  {
+    "id": "T001",
+    "name": "Transaction TR-301",
+    "entity_type": "TRANSACTION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "amount": 48500,
+    "currency": "INR",
+    "date": "2026-05-13",
+    "pattern": "Simulated review signal"
+  },
+  {
+    "id": "T002",
+    "name": "Transaction TR-302",
+    "entity_type": "TRANSACTION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "amount": 72000,
+    "currency": "INR",
+    "date": "2026-05-25",
+    "pattern": "Simulated review signal"
+  },
+  {
+    "id": "T003",
+    "name": "Transaction TR-303",
+    "entity_type": "TRANSACTION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "amount": 33000,
+    "currency": "INR",
+    "date": "2026-06-03",
+    "pattern": "Simulated review signal"
+  },
+  {
+    "id": "T004",
+    "name": "Transaction TR-304",
+    "entity_type": "TRANSACTION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "amount": 96000,
+    "currency": "INR",
+    "date": "2026-06-19",
+    "pattern": "Simulated review signal"
+  },
+  {
+    "id": "T005",
+    "name": "Transaction TR-305",
+    "entity_type": "TRANSACTION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "amount": 41500,
+    "currency": "INR",
+    "date": "2026-07-02",
+    "pattern": "Simulated review signal"
+  },
+  {
+    "id": "T006",
+    "name": "Transaction TR-306",
+    "entity_type": "TRANSACTION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "amount": 68000,
+    "currency": "INR",
+    "date": "2026-07-17",
+    "pattern": "Simulated review signal"
+  }
+]

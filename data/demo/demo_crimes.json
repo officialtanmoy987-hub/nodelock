@@ -1,0 +1,93 @@
+[
+  {
+    "id": "C001",
+    "name": "Case DG-204: Warehouse Inventory Loss",
+    "entity_type": "CRIME",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Property incident",
+    "date": "2026-05-11",
+    "location_id": "L003",
+    "status": "Open analytical lead"
+  },
+  {
+    "id": "C002",
+    "name": "Case DG-217: Vehicle Diversion",
+    "entity_type": "CRIME",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Transport anomaly",
+    "date": "2026-05-22",
+    "location_id": "L006",
+    "status": "Open analytical lead"
+  },
+  {
+    "id": "C003",
+    "name": "Case DG-231: Irregular Invoice Chain",
+    "entity_type": "CRIME",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Financial anomaly",
+    "date": "2026-06-02",
+    "location_id": "L002",
+    "status": "Under review"
+  },
+  {
+    "id": "C004",
+    "name": "Case DG-245: Repeated Co-location",
+    "entity_type": "CRIME",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Pattern observation",
+    "date": "2026-06-12",
+    "location_id": "L007",
+    "status": "Under review"
+  },
+  {
+    "id": "C005",
+    "name": "Case DG-256: Cargo Routing Exception",
+    "entity_type": "CRIME",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Transport anomaly",
+    "date": "2026-06-18",
+    "location_id": "L008",
+    "status": "Open analytical lead"
+  },
+  {
+    "id": "C006",
+    "name": "Case DG-268: Unusual Contact Pattern",
+    "entity_type": "CRIME",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Communication anomaly",
+    "date": "2026-07-01",
+    "location_id": "L004",
+    "status": "Open analytical lead"
+  },
+  {
+    "id": "C007",
+    "name": "Case DG-279: Account Activity Review",
+    "entity_type": "CRIME",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "category": "Financial anomaly",
+    "date": "2026-07-15",
+    "location_id": "L001",
+    "status": "Under review"
+  }
+]

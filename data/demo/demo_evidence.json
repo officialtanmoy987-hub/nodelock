@@ -1,0 +1,1582 @@
+[
+  {
+    "id": "EV001",
+    "relationship_id": "R001",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV002",
+    "relationship_id": "R002",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV003",
+    "relationship_id": "R003",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV004",
+    "relationship_id": "R004",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV005",
+    "relationship_id": "R005",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV006",
+    "relationship_id": "R006",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV007",
+    "relationship_id": "R007",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV008",
+    "relationship_id": "R008",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV009",
+    "relationship_id": "R009",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV010",
+    "relationship_id": "R010",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV011",
+    "relationship_id": "R011",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV012",
+    "relationship_id": "R012",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV013",
+    "relationship_id": "R013",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV014",
+    "relationship_id": "R014",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV015",
+    "relationship_id": "R015",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV016",
+    "relationship_id": "R016",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV017",
+    "relationship_id": "R017",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV018",
+    "relationship_id": "R018",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV019",
+    "relationship_id": "R019",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV020",
+    "relationship_id": "R020",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV021",
+    "relationship_id": "R021",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV022",
+    "relationship_id": "R022",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV023",
+    "relationship_id": "R023",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV024",
+    "relationship_id": "R024",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV025",
+    "relationship_id": "R025",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV026",
+    "relationship_id": "R026",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.91
+  },
+  {
+    "id": "EV027",
+    "relationship_id": "R027",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV028",
+    "relationship_id": "R028",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV029",
+    "relationship_id": "R029",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV030",
+    "relationship_id": "R030",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV031",
+    "relationship_id": "R031",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV032",
+    "relationship_id": "R032",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV033",
+    "relationship_id": "R033",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV034",
+    "relationship_id": "R034",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV035",
+    "relationship_id": "R035",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV036",
+    "relationship_id": "R036",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV037",
+    "relationship_id": "R037",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV038",
+    "relationship_id": "R038",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV039",
+    "relationship_id": "R039",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV040",
+    "relationship_id": "R040",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV041",
+    "relationship_id": "R041",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV042",
+    "relationship_id": "R042",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV043",
+    "relationship_id": "R043",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV044",
+    "relationship_id": "R044",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV045",
+    "relationship_id": "R045",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV046",
+    "relationship_id": "R046",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV047",
+    "relationship_id": "R047",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated association requiring investigator verification.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.72
+  },
+  {
+    "id": "EV048",
+    "relationship_id": "R048",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated association requiring investigator verification.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.72
+  },
+  {
+    "id": "EV049",
+    "relationship_id": "R049",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated association requiring investigator verification.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.72
+  },
+  {
+    "id": "EV050",
+    "relationship_id": "R050",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated association requiring investigator verification.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.72
+  },
+  {
+    "id": "EV051",
+    "relationship_id": "R051",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated association requiring investigator verification.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.72
+  },
+  {
+    "id": "EV052",
+    "relationship_id": "R052",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated association requiring investigator verification.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.72
+  },
+  {
+    "id": "EV053",
+    "relationship_id": "R053",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated association requiring investigator verification.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.72
+  },
+  {
+    "id": "EV054",
+    "relationship_id": "R054",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated association requiring investigator verification.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.72
+  },
+  {
+    "id": "EV055",
+    "relationship_id": "R055",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated association requiring investigator verification.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.72
+  },
+  {
+    "id": "EV056",
+    "relationship_id": "R056",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated association requiring investigator verification.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.72
+  },
+  {
+    "id": "EV057",
+    "relationship_id": "R057",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated association requiring investigator verification.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.72
+  },
+  {
+    "id": "EV058",
+    "relationship_id": "R058",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV059",
+    "relationship_id": "R059",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV060",
+    "relationship_id": "R060",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV061",
+    "relationship_id": "R061",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV062",
+    "relationship_id": "R062",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV063",
+    "relationship_id": "R063",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV064",
+    "relationship_id": "R064",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV065",
+    "relationship_id": "R065",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV066",
+    "relationship_id": "R066",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV067",
+    "relationship_id": "R067",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV068",
+    "relationship_id": "R068",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV069",
+    "relationship_id": "R069",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV070",
+    "relationship_id": "R070",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV071",
+    "relationship_id": "R071",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV072",
+    "relationship_id": "R072",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV073",
+    "relationship_id": "R073",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV074",
+    "relationship_id": "R074",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV075",
+    "relationship_id": "R075",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV076",
+    "relationship_id": "R076",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV077",
+    "relationship_id": "R077",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.78
+  },
+  {
+    "id": "EV078",
+    "relationship_id": "R078",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated call pattern: 8 contacts.",
+    "observed_at": "2026-05-10",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.79
+  },
+  {
+    "id": "EV079",
+    "relationship_id": "R079",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-10",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV080",
+    "relationship_id": "R080",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-10",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV081",
+    "relationship_id": "R081",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated sms pattern: 12 contacts.",
+    "observed_at": "2026-05-11",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.79
+  },
+  {
+    "id": "EV082",
+    "relationship_id": "R082",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-11",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV083",
+    "relationship_id": "R083",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-11",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV084",
+    "relationship_id": "R084",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated call pattern: 5 contacts.",
+    "observed_at": "2026-05-21",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.79
+  },
+  {
+    "id": "EV085",
+    "relationship_id": "R085",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-21",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV086",
+    "relationship_id": "R086",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-21",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV087",
+    "relationship_id": "R087",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated sms pattern: 17 contacts.",
+    "observed_at": "2026-05-25",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.79
+  },
+  {
+    "id": "EV088",
+    "relationship_id": "R088",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-25",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV089",
+    "relationship_id": "R089",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-25",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV090",
+    "relationship_id": "R090",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated call pattern: 9 contacts.",
+    "observed_at": "2026-06-02",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.79
+  },
+  {
+    "id": "EV091",
+    "relationship_id": "R091",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-02",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV092",
+    "relationship_id": "R092",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-02",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV093",
+    "relationship_id": "R093",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated call pattern: 24 contacts.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.79
+  },
+  {
+    "id": "EV094",
+    "relationship_id": "R094",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV095",
+    "relationship_id": "R095",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV096",
+    "relationship_id": "R096",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated sms pattern: 14 contacts.",
+    "observed_at": "2026-06-18",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.79
+  },
+  {
+    "id": "EV097",
+    "relationship_id": "R097",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-18",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV098",
+    "relationship_id": "R098",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-18",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV099",
+    "relationship_id": "R099",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated call pattern: 6 contacts.",
+    "observed_at": "2026-06-22",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.79
+  },
+  {
+    "id": "EV100",
+    "relationship_id": "R100",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-22",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV101",
+    "relationship_id": "R101",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-22",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV102",
+    "relationship_id": "R102",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated sms pattern: 19 contacts.",
+    "observed_at": "2026-07-01",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.79
+  },
+  {
+    "id": "EV103",
+    "relationship_id": "R103",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-07-01",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV104",
+    "relationship_id": "R104",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-07-01",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV105",
+    "relationship_id": "R105",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated call pattern: 11 contacts.",
+    "observed_at": "2026-07-15",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.79
+  },
+  {
+    "id": "EV106",
+    "relationship_id": "R106",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-07-15",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV107",
+    "relationship_id": "R107",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-07-15",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.83
+  },
+  {
+    "id": "EV108",
+    "relationship_id": "R108",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated transaction pattern of INR 48,500.",
+    "observed_at": "2026-05-13",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.81
+  },
+  {
+    "id": "EV109",
+    "relationship_id": "R109",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-13",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV110",
+    "relationship_id": "R110",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-13",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV111",
+    "relationship_id": "R111",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated transaction pattern of INR 72,000.",
+    "observed_at": "2026-05-25",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.81
+  },
+  {
+    "id": "EV112",
+    "relationship_id": "R112",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-25",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV113",
+    "relationship_id": "R113",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-05-25",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV114",
+    "relationship_id": "R114",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated transaction pattern of INR 33,000.",
+    "observed_at": "2026-06-03",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.81
+  },
+  {
+    "id": "EV115",
+    "relationship_id": "R115",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-03",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV116",
+    "relationship_id": "R116",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-03",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV117",
+    "relationship_id": "R117",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated transaction pattern of INR 96,000.",
+    "observed_at": "2026-06-19",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.81
+  },
+  {
+    "id": "EV118",
+    "relationship_id": "R118",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-19",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV119",
+    "relationship_id": "R119",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-19",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV120",
+    "relationship_id": "R120",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated transaction pattern of INR 41,500.",
+    "observed_at": "2026-07-02",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.81
+  },
+  {
+    "id": "EV121",
+    "relationship_id": "R121",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-07-02",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV122",
+    "relationship_id": "R122",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-07-02",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV123",
+    "relationship_id": "R123",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Simulated transaction pattern of INR 68,000.",
+    "observed_at": "2026-07-17",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.81
+  },
+  {
+    "id": "EV124",
+    "relationship_id": "R124",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-07-17",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV125",
+    "relationship_id": "R125",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-07-17",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.8
+  },
+  {
+    "id": "EV126",
+    "relationship_id": "R126",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV127",
+    "relationship_id": "R127",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV128",
+    "relationship_id": "R128",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV129",
+    "relationship_id": "R129",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV130",
+    "relationship_id": "R130",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV131",
+    "relationship_id": "R131",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV132",
+    "relationship_id": "R132",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV133",
+    "relationship_id": "R133",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV134",
+    "relationship_id": "R134",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV135",
+    "relationship_id": "R135",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV136",
+    "relationship_id": "R136",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV137",
+    "relationship_id": "R137",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV138",
+    "relationship_id": "R138",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV139",
+    "relationship_id": "R139",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV140",
+    "relationship_id": "R140",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV141",
+    "relationship_id": "R141",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV142",
+    "relationship_id": "R142",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV143",
+    "relationship_id": "R143",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV144",
+    "relationship_id": "R144",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV145",
+    "relationship_id": "R145",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV146",
+    "relationship_id": "R146",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.76
+  },
+  {
+    "id": "EV147",
+    "relationship_id": "R147",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV148",
+    "relationship_id": "R148",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV149",
+    "relationship_id": "R149",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV150",
+    "relationship_id": "R150",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV151",
+    "relationship_id": "R151",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV152",
+    "relationship_id": "R152",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.9
+  },
+  {
+    "id": "EV153",
+    "relationship_id": "R153",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV154",
+    "relationship_id": "R154",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV155",
+    "relationship_id": "R155",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV156",
+    "relationship_id": "R156",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV157",
+    "relationship_id": "R157",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  },
+  {
+    "id": "EV158",
+    "relationship_id": "R158",
+    "title": "Simulated demo source record",
+    "source_type": "DEMO_NETWORK",
+    "summary": "Demo-generated relationship for investigation workflow.",
+    "observed_at": "2026-06-12",
+    "data_status": "SIMULATED_DEMO",
+    "confidence": 0.84
+  }
+]

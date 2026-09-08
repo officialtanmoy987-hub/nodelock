@@ -1,0 +1,122 @@
+[
+  {
+    "id": "M001",
+    "name": "Communication log 01",
+    "entity_type": "COMMUNICATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "channel": "Call",
+    "date": "2026-05-10",
+    "frequency": 8
+  },
+  {
+    "id": "M002",
+    "name": "Communication log 02",
+    "entity_type": "COMMUNICATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "channel": "SMS",
+    "date": "2026-05-11",
+    "frequency": 12
+  },
+  {
+    "id": "M003",
+    "name": "Communication log 03",
+    "entity_type": "COMMUNICATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "channel": "Call",
+    "date": "2026-05-21",
+    "frequency": 5
+  },
+  {
+    "id": "M004",
+    "name": "Communication log 04",
+    "entity_type": "COMMUNICATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "channel": "SMS",
+    "date": "2026-05-25",
+    "frequency": 17
+  },
+  {
+    "id": "M005",
+    "name": "Communication log 05",
+    "entity_type": "COMMUNICATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "channel": "Call",
+    "date": "2026-06-02",
+    "frequency": 9
+  },
+  {
+    "id": "M006",
+    "name": "Communication log 06",
+    "entity_type": "COMMUNICATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "channel": "Call",
+    "date": "2026-06-12",
+    "frequency": 24
+  },
+  {
+    "id": "M007",
+    "name": "Communication log 07",
+    "entity_type": "COMMUNICATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "channel": "SMS",
+    "date": "2026-06-18",
+    "frequency": 14
+  },
+  {
+    "id": "M008",
+    "name": "Communication log 08",
+    "entity_type": "COMMUNICATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "channel": "Call",
+    "date": "2026-06-22",
+    "frequency": 6
+  },
+  {
+    "id": "M009",
+    "name": "Communication log 09",
+    "entity_type": "COMMUNICATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "channel": "SMS",
+    "date": "2026-07-01",
+    "frequency": 19
+  },
+  {
+    "id": "M010",
+    "name": "Communication log 10",
+    "entity_type": "COMMUNICATION",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "channel": "Call",
+    "date": "2026-07-15",
+    "frequency": 11
+  }
+]

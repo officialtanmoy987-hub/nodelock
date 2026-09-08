@@ -1,0 +1,68 @@
+[
+  {
+    "id": "V001",
+    "name": "DL-7C-DM-2048",
+    "entity_type": "VEHICLE",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "vehicle_type": "Cargo van",
+    "color": "White"
+  },
+  {
+    "id": "V002",
+    "name": "AS-01-TX-4810",
+    "entity_type": "VEHICLE",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "vehicle_type": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "id": "V003",
+    "name": "DL-3C-TR-9017",
+    "entity_type": "VEHICLE",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "vehicle_type": "Pickup",
+    "color": "Grey"
+  },
+  {
+    "id": "V004",
+    "name": "AS-01-QR-7732",
+    "entity_type": "VEHICLE",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "vehicle_type": "Sedan",
+    "color": "Blue"
+  },
+  {
+    "id": "V005",
+    "name": "WB-08-LN-1186",
+    "entity_type": "VEHICLE",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "vehicle_type": "Truck",
+    "color": "Red"
+  },
+  {
+    "id": "V006",
+    "name": "DL-9A-KP-6621",
+    "entity_type": "VEHICLE",
+    "data_status": "SIMULATED_DEMO",
+    "source_ids": [
+      "DEMO-NETWORK-2026"
+    ],
+    "vehicle_type": "SUV",
+    "color": "Silver"
+  }
+]
