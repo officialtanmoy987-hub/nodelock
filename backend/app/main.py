@@ -1,4 +1,4 @@
-"""FastAPI service for the self-contained CRIMEGRAPH AI hackathon demo."""
+﻿"""FastAPI service for the self-contained CRIMEGRAPH AI hackathon demo."""
 from __future__ import annotations
 
 from difflib import SequenceMatcher
@@ -11,7 +11,7 @@ from pydantic import BaseModel
 from .analytics import activity_series, build_alerts, calculate_metrics, graph_from, shortest_path
 from .data import DEMO_STATUS, ensure_demo_data
 
-app = FastAPI(title="CRIMEGRAPH AI", version="1.0.0", description="Ethical, simulated investigation-network demo.")
+app = FastAPI(title="NODELOCK", version="1.0.0", description="NODELOCK investigation intelligence platform.")
 app.add_middleware(CORSMiddleware, allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"], allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
 DATA = ensure_demo_data()
 METRICS = calculate_metrics(DATA)
@@ -195,4 +195,5 @@ class ImportPayload(BaseModel):
 def import_preview(payload: ImportPayload) -> dict[str, Any]:
     columns = list(payload.records[0].keys()) if payload.records else []
     entity_hints = sum(1 for col in columns if col.lower() in {"name", "person", "phone", "location", "vehicle", "organization"})
-    return {"file": payload.file_name, "source_type": payload.source_type, "records": len(payload.records), "detected_entity_fields": entity_hints, "detected_relationship_fields": sum(1 for col in columns if col.lower() in {"source", "target", "from", "to", "caller", "receiver"}), "status": "Preview processed — no records were added to the deterministic demo graph.", "data_status": "USER_UPLOAD_PREVIEW"}
+    return {"file": payload.file_name, "source_type": payload.source_type, "records": len(payload.records), "detected_entity_fields": entity_hints, "detected_relationship_fields": sum(1 for col in columns if col.lower() in {"source", "target", "from", "to", "caller", "receiver"}), "status": "Preview processed â€” no records were added to the deterministic demo graph.", "data_status": "USER_UPLOAD_PREVIEW"}
+
